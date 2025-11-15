@@ -54,17 +54,7 @@ Ces interactions permettent à l'utilisateur de contrôler le comportement visue
 
 ---
 
-## Perspectives d'amélioration
 
-Pour aller plus loin, le projet pourrait être enrichi avec :
-
-- Animations supplémentaires (pulsation, glow, apparition progressive)  
-- Cycle de plusieurs panneaux d'information  
-- Intégration de toutes les planètes restantes  
-- Interaction mobile tactile (drag, pinch, etc.)  
-- Effets visuels (particules, halo lumineux)  
-
----
 
 ## Conclusion
 
