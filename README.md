@@ -23,7 +23,7 @@ Ces interactions permettent à l'utilisateur de contrôler le comportement visue
 
 ## Configuration technique
 
-- **Unity** (version 2020.3 LTS ou supérieure)  
+- **Unity** (version 2022.3 LTS ou supérieure)  
 - **Vuforia Engine** activé avec clé de licence Vuforia  
 - **Image Targets** pour chaque planète (Mars, Terre)  
 - **Modèles 3D** attachés en tant qu'enfants des Image Targets  
