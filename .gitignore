@@ -1,0 +1,130 @@
+# =========================
+# Unity-generated files
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# =========================
+# Visual Studio / VS Code
+# =========================
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =========================
+# OS-specific files
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+._*
+
+# =========================
+# Unity Cache & Package Manager
+# =========================
+Library/
+Obj/
+Temp/
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.aps
+*.ide
+*.scc
+*.tmp
+*.bak
+*.swp
+*.swo
+*.user
+*.lock
+*.DS_Store
+
+# =========================
+# Asset Store / Package files
+# =========================
+*.unitypackage
+*.tgz
+*.zip
+*.rar
+*.7z
+*.cache
+*.tmp
+*.bak
+
+# =========================
+# Build outputs
+# =========================
+Build/
+Builds/
+*.apk
+*.aab
+*.exe
+*.app
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.ipa
+
+# =========================
+# Crash / Debug / Profiling
+# =========================
+crashlytics-build.properties
+*.stacktrace
+*.hprof
+*.dmp
+
+# =========================
+# Shader / Generated files
+# =========================
+*.shader
+*.compute
+*.cginc
+*.bytes
+*.asset
+*.resources
+
+# =========================
+# User-specific and local files
+# =========================
+*.prefs
+*.log
+*.pidb
+*.swp
+*.swo
+
+# =========================
+# AL / Business Central (your original list)
+# =========================
+.alcache/
+.alpackages/
+.snapshots/
+.output/
+*.app
+rad.json
+*.g.xlf
+*.flf
+TestResults.xml
+# Visual Studio caches
+.vs/
+
+# Mediapipe Unity Package
+Packages/com.github.homuler.mediapipe/
